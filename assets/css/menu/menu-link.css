@@ -1,0 +1,16 @@
+header .menu__link {
+    text-decoration: none;
+    color: #808080;
+    margin-right: 1.5em;
+    text-transform: lowercase;
+}
+
+header .menu__link.ativo{
+    color: black;
+    font-weight: bold;
+}
+
+header .menu__link:hover{
+    text-decoration: underline;
+    
+}
