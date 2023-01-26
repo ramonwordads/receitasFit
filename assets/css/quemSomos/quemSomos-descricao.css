@@ -1,0 +1,22 @@
+.quem-somos__descricao{
+    color: #595959;   
+}
+
+
+@media screen and (min-width: 0){
+    .quem-somos__descricao{
+        font-size: 1rem;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .quem-somos__descricao{
+        font-size: 1.3rem;
+    }
+}
+@media screen and (min-width: 992px){
+    .quem-somos__descricao{
+        font-weight: 100;
+        font-size: 1.75rem;
+    }
+}
